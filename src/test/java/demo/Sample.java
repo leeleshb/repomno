@@ -6,6 +6,7 @@ public class Sample {
 		System.out.println("hello git");
 		System.out.println("hi, i am working as an automation engineer");
 		System.out.println("hello evening");
+		System.out.println(2+3);
 	}
 
 }
